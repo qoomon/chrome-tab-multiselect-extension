@@ -7,13 +7,13 @@ This extension adds shortcuts to multiselect tabs.
 chrome://extensions/shortcuts
 * Multiselect Left: 
   * **Alt ⇧ ←** 
-  * `MacOS` **⇧ ⌘ ←**
+  * `MacOS` **⌥ ⇧ ←**
 * Multiselect Right: 
   * **Alt ⇧ →** 
-  * `MacOS` **⇧ ⌘ →**
+  * `MacOS` **⌥ ⇧ →**
 * Multiselect Tab Group:
   *  **Alt ⇧ ↑** 
-  * `MacOS` **⇧ ⌘ ↑**
+  * `MacOS` **⌥ ⇧ ↑**
 
 #### Build
 `zip -r -j tab-multiselect.zip *`

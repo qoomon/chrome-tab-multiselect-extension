@@ -1,7 +1,7 @@
 {
   "name": "Tab Multiselect",
   "description": "This extension adds shortcuts to multiselect tabs.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Bengt Brodersen",
   
   "manifest_version": 3,
@@ -18,21 +18,21 @@
     "multiselect-tab-left": {
       "suggested_key": {
         "default": "Alt+Shift+Left",
-        "mac": "Shift+Command+Left"
+        "mac": "Alt+Shift+Left"
       },
       "description": "Multiselect Tab to Left"
     },
     "multiselect-tab-right": {
       "suggested_key": {
         "default": "Alt+Shift+Right",
-        "mac": "Shift+Command+Right"
+        "mac": "Alt+Shift+Right"
       },
       "description": "Multiselect Tab to Right"
     },
     "multiselect-tab-group": {
       "suggested_key": {
         "default": "Alt+Shift+Up",
-        "mac": "Shift+Command+Up"
+        "mac": "Alt+Shift+Up"
       },
       "description": "Multiselect Tab Group"
     } 
