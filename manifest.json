@@ -1,14 +1,12 @@
 {
   "name": "Tab Multiselect",
   "description": "This extension adds shortcuts to multiselect tabs.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Bengt Brodersen",
 
   "manifest_version": 3,
 
-  "permissions": [
-    "tabGroups"
-  ],
+  "permissions": [],
 
   "background": {
     "service_worker": "background.js"
